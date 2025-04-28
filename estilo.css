@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(177, 61, 226);
+    color: aliceblue;
+    font:normal 20pt Arial ;}
+
+
+
+.Meunome {
+    text-align: center;
+    color: rgb(228, 231, 5)}
+#PrimeiroTitulo{
+    font-size: 55px;
+    padding-top: 80px;}
+
+
+.subtitulo {font-size: 35px;
+    color: rgb(23, 88, 6);
+    padding-top: 80px;}
+
+
+.paragrafo{
+    font-size: 30px; 
+    text-align: justify;}
+button {
+        background-color: #60041A;
+        color: #F4F0EA;
+        padding: 10px 20px;
+        cursor: pointer;
+        font-size: 1em;
+        margin-top: 10px;}
+
+.Passatempo{
+    font-size: 35px;
+    color: rgb(23, 88, 6);}
+
+
+.Hobbies{
+    font-size: 30px;}
+.Hobbies li{padding-top: 25px;}
+
+.jogos{font-weight: bold;}
+
+.video{font-weight: bold;}
+
+.caes{font-weight: bold;}
+
+
+
+.warzone{
+    width: 800px;
+    height: 500px;
+    border-radius: 60px;
+    display: block;
+    margin: 0 auto;
+    margin-top: 50px;}
+
+
+.titulotabela{
+    font-size: 30px;
+    color: rgba(41, 42, 49, 0.973);
+    padding-top: 80px;
+}
+
+.tabela-meio{
+    margin: 0 auto;
+}
+.table,th,td,tr{
+    border: 5px solid darkslategray;
+    width: 400px;
+    height:400px
+}
+
+
+.tabela-meio img{
+    width: 400px;
+    height:400px;
+    
+    }
+
+#clique{font-size: 25px;
+        }
